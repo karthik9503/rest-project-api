@@ -6,8 +6,4 @@ flask-sqlalchemy
 flask-jwt-extended
 passlib
 flask-migrate
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> 757c74348f31dcac1375240a0e52f6e41ac13420
